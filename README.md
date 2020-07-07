@@ -8,7 +8,7 @@ what is the purpose in life?
 Sample website with plenty of files for demos
 
 Another change
-
+Adding line for rebasing example
 ##Copyright
 git 2020
 ##  Another change
