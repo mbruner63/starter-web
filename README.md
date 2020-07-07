@@ -8,3 +8,6 @@ what is the purpose in life?
 Sample website with plenty of files for demos
 
 Another change
+
+##Copyright
+git 2020
